@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+@font-face {
+  font-family: 'Patrick Hand', monoscape, cursive;
+  src: url(Font/PatrickHand-Regular.ttf);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #97D9E1;
+}
+
+#logohamster {
+  width: 150px;
+  background-color: #97D9E1;
+  border-color: #ffffff;
+  border-width: 2px;
+}
+
+#project {
+  background-color: #97D9E1;
+}
+footer {
+  background-color: #97D9E1;
+  padding-top: 3rem;
+}
